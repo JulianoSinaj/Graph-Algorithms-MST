@@ -5,18 +5,11 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-//TODO completare gli import necessari
-
-//ATTENZIONE: è vietato includere import a pacchetti che non siano della Java SE
-
 /**
  * Implementazione dell'interfaccia <code>DisjointSets<E></code> tramite una
  * foresta di alberi ognuno dei quali rappresenta un insieme disgiunto. Si
  * vedano le istruzioni o il libro di testo Cormen et al. (terza edizione)
  * Capitolo 21 Sezione 3.
- * 
- * @author Luca Tesei (template) **INSERIRE NOME, COGNOME ED EMAIL
- *         **JULIANO, SINAJ juliano.sinaj@studenti.unicam.it **
  *
  * @param <E>
  *                il tipo degli elementi degli insiemi disgiunti
