@@ -12,10 +12,6 @@ import org.junit.jupiter.api.Test;
  * Questa classe verifica la correttezza delle funzionalità di ForestDisjointSets,
  * tra cui makeSet, union, findSet, e gestione delle eccezioni.
  * Include test per scenari normali, edge case, e performance.
- * 
- * 
- * @author Luca Tesei
- *
  */
 class ForestDisjointSetsTest {
 
