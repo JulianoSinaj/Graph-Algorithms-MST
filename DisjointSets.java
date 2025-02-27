@@ -15,12 +15,8 @@ import java.util.Set;
  * elemento, mentre il rappresentante di un insieme disgiunto con più di un
  * elemento può essere qualsiasi elemento dell'insieme disgiunto. Il
  * rappresentante può cambiare in seguito all'operazione di unione.
- * 
- * @author Luca Tesei
- * 
  * @param <E>
  *                il tipo degli elementi degli insiemi disgiunti
- *
  */
 public interface DisjointSets<E> {
 
