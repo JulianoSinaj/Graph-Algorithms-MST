@@ -37,9 +37,6 @@ import java.util.Set;
  * supporta tutti i metodi che usano indici, utilizzando l'indice assegnato a
  * ogni nodo in fase di inserimento.
  * 
- * @author Luca Tesei
- * JULIANO, SINAJ juliano.sinaj@studenti.unicam.it
- *
  */
 public class AdjacencyMatrixUndirectedGraph<L> extends Graph<L> {
     /*
