@@ -1,21 +1,13 @@
-package it.unicam.cs.asdl2425.mp2;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.HashSet;
 import java.util.Set;
-
 import org.junit.jupiter.api.Test;
 
 /**
  * Classe di test per la classe UndirectedGraphConnectedComponentsComputer.
- * 
- * @author Luca Tesei
- *
  */
 class UndirectedGraphConnectedComponentsComputerTest {
-	
-
 	
     @Test
     final void testComputeConnectedComponentsExceptionsAndTrivialCases() {
