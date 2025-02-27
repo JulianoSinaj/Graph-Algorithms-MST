@@ -17,10 +17,6 @@ import java.util.Set;
  * 
  * Le etichette dei nodi sono obbligatorie ed uniche, cioè un nodo non può avere
  * etichetta nulla e due nodi con la stessa etichetta sono lo stesso nodo.
- * 
- * 
- * @author Luca Tesei
- * 
  * @param <L>
  *                etichette dei nodi
  *
