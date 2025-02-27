@@ -1,9 +1,4 @@
 /**
- * 
- */
-package it.unicam.cs.asdl2425.mp2;
-
-/**
  * Questa classe raggruppa le caratteristiche di un arco, possibilmente pesato
  * ed etichettato, facente parte di un grafo. I nodi del grafo sono etichettati
  * con oggetti della classe {@code L}. Le classi {@code GraphNode<L>} e
@@ -25,7 +20,6 @@ package it.unicam.cs.asdl2425.mp2;
  * dei nodi non conta, cioè un arco tra {@code n1} ed {@code n2} e un arco tra
  * {@code n2} ed {@code n1} sono considerati lo stesso arco.
  * 
- * @author Luca Tesei
  * 
  * @param <L>
  *                etichette dei nodi del grafo
