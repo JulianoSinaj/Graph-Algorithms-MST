@@ -1,14 +1,8 @@
-package it.unicam.cs.asdl2425.mp2;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
-//TODO completare gli import necessari
-
-//ATTENZIONE: è vietato includere import a pacchetti che non siano della Java SE
 
 /**
  * 
@@ -18,8 +12,6 @@ import java.util.Set;
  * {@code ForestDisjointSets<GraphNode<L>>} per gestire una collezione di
  * insiemi disgiunti di nodi del grafo.
  * 
- * @author Luca Tesei (template) 
- * 			**JULIANO, SINAJ juliano.sinaj@studenti.unicam.it **
  * 
  * @param <L>
  *                tipo delle etichette dei nodi del grafo
