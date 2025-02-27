@@ -1,17 +1,11 @@
-package it.unicam.cs.asdl2425.mp2;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.HashSet;
 import java.util.Set;
-
 import org.junit.jupiter.api.Test;
 
 /**
  * Classe di test per i metodi della classe KruskalMSP.
- * 
- * @author Luca Tesei
- *
  */
 class KruskalMSPTest {
 
