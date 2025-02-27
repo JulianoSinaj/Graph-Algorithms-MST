@@ -1,5 +1,3 @@
-package it.unicam.cs.asdl2425.mp2;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
